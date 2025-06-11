@@ -1,0 +1,21 @@
+size :
+- 輸入奇數 / 偶數 (包含 4k 或 2k + 2) 皆可
+- 輸入 < 3 的數字會在下方 memo 顯示錯誤訊息
+
+魔術方陣生成方式選擇: 起始位置 (starting at)、移動方向 (direction)、衝突處理方式 (conflict)
+
+勾選 output validity in the below memo 會在下方 memo 顯示 valid / invalid
+
+按下 Generate Magic Square 會在右方顯是魔術方陣
+
+有四個 page
+- print on memo (有對齊)
+- print on grid (使用 string grid)
+- print on memo with check (有列 / 行 / 對角線總和)
+- print on grid with check (有列 / 行 / 對角線總和)
+
+附註: 必定會是  valid 的移動方式組合
+starting at = top, direction = upLeft / upRight, conflict = down
+starting at bottom, direction = downLeft / downRight, conflict = up
+starting at = left, direction = upLeft / downLeft, conflict = right
+starting at = right, direction = upRight / downRight, conflict = left

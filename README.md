@@ -1,8 +1,7 @@
 # Data Structure Course Repository
 
 - This repository is for the **Data Structure** course in the **Department of Information Management and Finance**.  
-- It contains various implementations and the compiled **.exe files** of classic data structures and algorithms,
-- organized as **homework assignments (HW)** and **bonus projects (B)**.
+- It contains various implementations and the compiled **.exe files** of classic data structures and algorithms,  organized as **homework assignments (HW)** and **bonus projects (B)**.
 
 ## Homework Assignments
 
@@ -21,4 +20,5 @@
 - **B02:** Generating knight’s tour using dynamic arrays and heuristic rules  
 - **B03:** Classic n-queen problem solved with backtracking (DFS)  
 - **B04:** Polynomial addition using circular singly linked lists (efficient for sparse polynomials)  
-- **B05:** Minimum Spanning Tree (MST) generation using Kruskal’s algorithm (with min heap and union-find) and Prim’s algorithm, with execution time comparison on sparse and dense graphs  
+- **B05:** Minimum Spanning Tree (MST) generation using Kruskal’s algorithm (with min heap and union-find) and Prim’s algorithm,
+    with execution time comparison on  sparse and dense graphs  

@@ -22,4 +22,4 @@
 - **B03:** Classic n-queen problem solved with backtracking (DFS)  
 - **B04:** Polynomial addition using circular singly linked lists (efficient for sparse polynomials)  
 - **B05:** Minimum Spanning Tree (MST) generation using Kruskal’s algorithm (with min heap and union-find) and Prim’s algorithm,
-    with execution time comparison on  sparse and dense graphs  
+  with execution time comparison on  sparse and dense graphs  

@@ -1,7 +1,8 @@
 # Data Structure Course Repository
 
-This repository is for the **Data Structure** course in the **Department of Information Management and Finance**.  
-It contains various implementations and the compiled **.exe files** of classic data structures and algorithms, organized as **homework assignments (HW)** and **bonus projects (B)**.
+- This repository is for the **Data Structure** course in the **Department of Information Management and Finance**.  
+- It contains various implementations and the compiled **.exe files** of classic data structures and algorithms,
+- organized as **homework assignments (HW)** and **bonus projects (B)**.
 
 ## Homework Assignments
 

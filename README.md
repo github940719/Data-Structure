@@ -3,7 +3,7 @@
 - This repository is for the **Data Structure** course in the **Department of Information Management and Finance**.  
 - It contains implementations and compiled files of classic data structures and algorithms,
   organized as **homework assignments (HW)** and **bonus projects (B)**.
-- All programs are developed on **C++ Builder**. If you don't have C++ Builder installed, you can still run the provided **.exe files**, or browse the .cpp files to see my coding style and logic.
+- All programs are developed on **C++ Builder**. If you don't have C++ Builder installed, you can still run the provided **.exe files**, or browse the **.cpp** files to see my coding style and logic.
 
 ## Homework Assignments
 
